@@ -1,0 +1,23 @@
+.nav button{
+    width: 88px;
+    height: 48px;
+    top: 24px;
+    left: 1308px;
+    padding: 16px;
+    gap: 10px;
+    border-radius: 50px;
+    opacity: 0px;
+    color: #fff;
+background-color:#EB6D20 ;
+border:none;
+font-size: 12px;
+font-weight: 500;
+line-height: 16px;
+margin-left: 24px;
+transition: all 1s;
+margin-right: 19px;
+}
+.nav button:hover{
+cursor: pointer;
+transform: scale(105%);
+}

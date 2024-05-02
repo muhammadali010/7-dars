@@ -1,0 +1,50 @@
+.main2 {
+    display: flex;
+    gap: 24px;
+    margin-top: 24px;
+}
+
+.main__card1 {
+    width: 424px;
+    height: 180px;
+    background-image: url(/images/png/unsplash_mO-_iF_FkCk.png);
+}
+
+.main__card2 {
+    width: 424px;
+    height: 180px;
+    background-image: url(/images/png/unsplash_gDrUY7QUeng.png);
+}
+
+.main__card3 {
+    width: 424px;
+    height: 180px;
+    background-image: url(/images/png/unsplash_q4LIvI9NN6Y.png);
+}
+
+.main__card1 p {
+    margin-top: 144px;
+    margin-left: 16px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #fff;
+}
+
+.main__card2 p {
+    margin-top: 144px;
+    margin-left: 16px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #fff;
+}
+
+.main__card3 p {
+    margin-top: 144px;
+    margin-left: 16px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #fff;
+}
